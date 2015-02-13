@@ -168,7 +168,7 @@ public class HorseRacingAssignment {
 				validInput = false;
 			}
 			times++;
-			if (keepGoing == FIVE){
+			if (keepGoing == numberOfPlayers){
 			keepGoing++;
 		}
 		}
